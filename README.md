@@ -14,6 +14,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sahil-Gupta628&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Gupta628&theme=midnight-purple&hide_border=false)<br/>
@@ -22,7 +23,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sahil-Gupta628&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
----
+--->
 [![](https://visitcount.itsvg.in/api?id=Sahil-Gupta628&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
