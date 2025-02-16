@@ -1,5 +1,6 @@
 # 💫 About Me:
-### 👋 Hi, I'm Sahil Gupta!  <br>🎓 B.Tech Student<br>🧠 Artificial Intelligence & Machine Learning Enthusiast<br>
+#👋 Hi, I'm Sahil Gupta!  
+### <br>🎓 B.Tech Student<br>🧠 Artificial Intelligence & Machine Learning Enthusiast<br>
 
 
 ## 🌐 Socials:
